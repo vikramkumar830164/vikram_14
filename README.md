@@ -11,3 +11,4 @@ This repository contains Jupyter notebooks and learning materials related to Mac
 - Python basics for ML
 
 Useful for beginners exploring ML with Python.
+Machine Learning notebooks: Linear Regression, Classification, Numpy, Pandas, Python.
